@@ -1,0 +1,301 @@
+
+@font-face{
+    font-family: Poppins-ExtraBold;
+    src: url(../font/Poppins-ExtraBold.ttf);
+}
+
+@font-face{
+    font-family: Poppins-Regular;
+    src: url(../font/Poppins-Regular.ttf);
+}
+@font-face{
+    font-family: Poppins-SemiBold;
+    src: url(../font/Poppins-SemiBold.ttf);
+}
+@font-face{
+    font-family: Roboto-Bold;
+    src: url(../font/Roboto-Bold.ttf);
+}
+@font-face{
+    font-family: Roboto-Medium;
+    src: url(../font/Roboto-Medium.ttf);
+}
+@font-face{
+    font-family: Poppins-Medium;
+    src: url(../font/Poppins-Medium.ttf);
+}
+.background{
+    background-color: rgb(3, 68, 122);
+    height: 100vh;
+}
+.logo{
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #ffffff;
+    font-family: Poppins-ExtraBold;
+}
+.downlood{
+    font-size:52px ;
+    font-family:  Poppins-ExtraBold;
+    color: #ffffff;
+}
+.mask_group{
+    width: 660px;
+    padding-right: 7rem;
+    padding-top: 2rem;
+    height: 460px;
+
+}
+.spcial{
+    padding-bottom: 9rem;
+}
+.lorem{
+    font-size:10px ;
+    font-family:  Poppins-Regular;
+    color: #ffffff;
+}
+.popular{
+padding-top: 5rem;
+}
+.download-app{
+    padding: 1rem 1.5rem;
+    background-color: #ffffff;
+    color: rgb(3, 68, 122);
+    font-family: Roboto-Medium;
+    font-size: 15px;
+    border: none;
+    border-radius: 3rem;
+    transition: width .35s ;
+}
+.download-app:hover{
+    background-color: rgb(10, 70, 90);
+    width: 200px;
+}
+.download-pp{
+    padding: 1rem 1.5rem;
+    background-color: rgb(3, 68, 122);
+    color: #ffffff;
+    font-family: Roboto-Medium;
+    font-size: 15px;
+    border: none;
+    border-radius: 3rem;
+    transition: width .35s ;
+}
+.download-pp:hover{
+    background-color: rgb(10, 70, 90);
+    width: 200px;
+}
+.second-step{
+    padding-top: 4rem;
+    padding-bottom: 6rem;
+}
+.card{
+    background-color: #ffffff;
+    border: none;
+    box-shadow: .5rem 1rem 1rem 1rem #f0eded;
+
+}
+.card-title{
+    text-align: center;
+    font-family: Poppins-SemiBold;
+    font-size: 24px;
+}
+.card-text{
+text-align: justify;
+padding: 1rem;
+color: #666666;
+font-size:16px ;
+font-family:  Poppins-Regular;
+}
+.photo{
+padding-left: 7rem;
+padding-top: 1rem;
+padding-bottom: 1rem;
+}
+.imges{
+    width: 600px;
+}
+.design{
+    font-family: Roboto-Bold;
+    font-size: 50px;
+}
+.perfect{
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+}
+.text{
+    color: #666666;
+font-size:14px ;
+font-family:  Poppins-Regular;
+}
+.text-p{
+    color: #222222;
+font-size:15px ;
+font-family:  Poppins-Regular;
+}
+.download-p{
+    padding: 1rem 2rem;
+    background-color: rgb(3, 68, 122);
+    color: #ffffff;
+    font-family: Roboto-Medium;
+    font-size: 15px;
+    border: none;
+    border-radius: 3rem;
+    margin-left: 2rem;
+    transition: width .35s ;
+}
+
+.download-p:hover{
+    width: 200px;
+    background-color: rgb(10, 70, 90);
+}
+.text-pp{
+    color: #000000;
+font-size:20px ;
+font-family: Poppins-SemiBold;
+}
+.main-text{
+    color: #666666;
+    font-size:14px ;
+    font-family:  Poppins-Regular;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+.responsive{
+    background-color: rgb(3, 68, 122);
+    padding-top: 3rem;
+    margin-bottom: 3rem;
+}
+.resize{
+    width: 700px;
+    height: 500px;
+}
+.your-app{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 5rem;
+}
+.varcar{
+    padding-top: 2rem;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.text-discution{
+    color: #FF4363;
+    font-size:14px ;
+    font-family:  Poppins-Regular;
+    padding-top: 0rem;
+    padding-bottom: 1rem;
+}
+.sky{
+    background-color: rgb(3, 68, 122);
+    padding: 3rem;
+    margin-top: 3rem;
+}
+.lorem-text{
+    font-size:10px ;
+    font-family:  Poppins-Regular;
+    color: #ffffff;
+    text-align: center;
+}
+.log{
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #ffffff;
+    font-family: Roboto-ExtraBold;
+    text-align: center;
+}
+.form-email{
+    border-bottom:#666666; 
+    border: none;
+}
+.downloadpp{
+    padding: 1rem 2.5rem;
+    background-color: rgb(3, 68, 122);
+    color: #ffffff;
+    font-family: Roboto-Medium;
+    font-size: 15px;
+    border: none;
+    border-radius: 3rem;
+    margin-top: 1rem;
+    transition: width .35s ;
+}
+.downloadpp:hover{
+    background-color: rgb(10, 70, 90);
+    width: 200px;
+}
+.label-email{
+    color:#FF4363 ;
+}
+.animate__bounce{
+    animation-duration: inherit;
+}
+.proparity{
+    /* text-align: center; */
+    padding-left: 20rem;
+    padding-right: 20rem;
+    padding-top: 3rem;
+}
+.industy{
+  padding-left: 5rem;
+}
+::placeholder{
+    color: #000000;
+}
+.designer{
+    font-family: Roboto-Bold;
+    font-size: 50px;
+    text-align: center;
+}
+.alter{
+    text-align: center;
+}
+.texture{
+    color: #666666;
+    font-size:14px ;
+    font-family:  Poppins-Regular;
+    text-align: center;
+}
+.back-blak{
+    background-color: rgb(3, 68, 122);
+    padding: 2rem;
+    color: #ffffff;
+    margin-top: 3rem;
+}
+.twitter span{
+    font-size: 12px;   font-family: Poppins-Medium;
+}
+.logo-footer{
+    font-size: 18px;   font-family: Poppins-Medium;
+    padding-left: 7rem;
+    letter-spacing: 5px;
+
+}
+.navbar-toggler:hover{
+box-shadow: none;
+}
+.navbar-toggler:focus{
+    box-shadow: none;
+    }
+.acopyright{
+    font-size: 12px;   font-family: Poppins-Medium;
+}
+.nav-item {
+color: #ffffff;
+}
+.fa-bars{
+    color: #ffffff;
+}
+.link-as{
+    color: #ffffff;
+}
+.link-as:hover{
+    color: #ffffff;
+}
+.navbar-toggler{
+    box-shadow: none;
+    text-shadow: none;
+     border: none;
+}
